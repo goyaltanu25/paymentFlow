@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paymentFlow/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paymentFlow/static/js/main.3b5bcb12.chunk.js",
+    "main.js.map": "/paymentFlow/static/js/main.3b5bcb12.chunk.js.map",
+    "runtime-main.js": "/paymentFlow/static/js/runtime-main.e3264bfa.js",
+    "runtime-main.js.map": "/paymentFlow/static/js/runtime-main.e3264bfa.js.map",
+    "static/js/2.f73d1cab.chunk.js": "/paymentFlow/static/js/2.f73d1cab.chunk.js",
+    "static/js/2.f73d1cab.chunk.js.map": "/paymentFlow/static/js/2.f73d1cab.chunk.js.map",
+    "index.html": "/paymentFlow/index.html",
+    "precache-manifest.df7eec7872056d0050ff77c72e43cfc9.js": "/paymentFlow/precache-manifest.df7eec7872056d0050ff77c72e43cfc9.js",
+    "service-worker.js": "/paymentFlow/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paymentFlow/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f73d1cab.chunk.js.LICENSE.txt": "/paymentFlow/static/js/2.f73d1cab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/paymentFlow/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3264bfa.js",
+    "static/js/2.f73d1cab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3b5bcb12.chunk.js"
+  ]
+}
